@@ -1,0 +1,2 @@
+
+void leralunos(int alunos[]){
